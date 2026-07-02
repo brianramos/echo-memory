@@ -146,7 +146,7 @@ that nothing else in the current stack offers: prefix-granular access shapes ("s
 enforced in this demo) and a store the agent can *write to* with the same guarantees it
 reads by.
 
-## Limitations — the honest ledger
+## Limitations
 
 Python-only AST extraction (tree-sitter frontends are the obvious next step); a heuristic
 this-is-not-a-call-graph resolver; merge commits are diffed against their first parent;
